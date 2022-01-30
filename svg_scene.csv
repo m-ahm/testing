@@ -1,4 +1,4 @@
 shape,width,height,x,y,cx,cy,rx,ry,fill
-rect,200,100,0,0,,,,pink
-circle,,,,,250,50,150,50,
-ellipse,,,,250,50,150,50,
+"rect",200,100,0,0,,,,,pink
+"circle",,,,,250,50,150,50,
+"ellipse",,,,,250,50,150,50,
