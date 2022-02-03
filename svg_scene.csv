@@ -5,4 +5,4 @@ shape,width,height,x,y,cx,cy,rx,ry,r,fill
 "rect",100,100,190,190,,,,,,cadetblue
 "rect",80,80,175,175,,,,,,coral
 "rect",60,60,165,165,,,,,,darkseagreen
-"circle",,,175,175,,,,20,crimson
+"circle",,,175,175,,,20,crimson
