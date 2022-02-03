@@ -1,4 +1,8 @@
-shape,width,height,x,y,cx,cy,rx,ry,fill
+shape,width,height,x,y,cx,cy,rx,ry,r,fill
 "rect",200,100,0,0,,,,,pink
-"circle",,,,,250,50,150,50,
-"ellipse",,,,,250,50,150,50,
+"ellipse",,,,,250,50,150,50,,
+"rect",120,120,200,200,,,,,,bisque
+"rect",100,100,190,190,,,,,,cadetblue
+"rect",80,80,175,175,,,,,,coral
+"rect",60,60,165,165,,,,,,darkseagreen
+"circle",,,175,175,,,,20,crimson
